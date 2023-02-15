@@ -19,3 +19,19 @@ font-family: 'Proza Libre', sans-serif;
 #main-nav .nav-link:hover {
  color: #DECE9C;
 }
+
+#horse-summary h1{
+    color:#A21232;
+    font-family: 'Eczar', serif;
+    font-weight: 100;
+    font-size: 3rem;
+}
+
+@media (max-width: 1200px) {
+    #main-nav .navbar-brand {
+        font-size: 2rem;
+    }
+    #main-nav .nav-link {
+        font-size: 1.2rem;
+    }
+}
