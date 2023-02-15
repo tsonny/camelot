@@ -1,0 +1,21 @@
+body {
+    background-color: #1A1831;
+font-family: 'Proza Libre', sans-serif;
+}
+
+#main-nav .navbar-brand {
+    color: #DECE9C;
+    font-size: 3rem;
+    font-family: 'Eczar', serif;
+    font-weight: 100;
+}
+
+#main-nav .nav-link {
+    color: #20615B;
+    font-size: 1.5rem;
+    font-family: 'Proza Libre', sans-serif;
+
+}
+#main-nav .nav-link:hover {
+ color: #DECE9C;
+}
